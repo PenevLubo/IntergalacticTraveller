@@ -66,6 +66,9 @@
                         <viewLayoutGuide key="safeArea" id="rjh-g3-KWw"/>
                     </view>
                     <navigationItem key="navigationItem" id="HMY-vW-3gi"/>
+                    <connections>
+                        <outlet property="starImageView" destination="Sov-L3-6Hw" id="j1G-W3-N0T"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3cy-8S-3ST" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
